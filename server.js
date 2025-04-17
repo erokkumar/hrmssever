@@ -15,10 +15,10 @@ const port = 5000;
 app.use(bodyParser.json());
 
 const db = mysql.createConnection({
-    host: 'sql12.freesqldatabase.com',
-    user: 'sql12771790',
-    password: 'r9JyxMiMt4',
-    database: 'sql12771790',
+    host: '89.117.157.154',
+    user: 'u833212223_sql12771790',
+    password: 'Rohit@876#',
+    database: 'u833212223_DemoHrms',
     port: 3306,
 });
 
